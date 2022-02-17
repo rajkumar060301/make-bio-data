@@ -1,0 +1,32 @@
+body{
+    background-color: antiquewhite;
+}
+.header{
+    color: blue;
+    text-align: center;
+}
+#form-id{
+    /*border: 5px solid blue;*/
+    margin: 2% 2% 2% 2%;
+    padding-left: 10%;
+}
+.input-box,.super-class,.label-col{
+    font-size: larger;
+
+}
+.table-col{
+    width: 50%;
+}
+/*.table-col,.table-data,.row{*/
+/*    border: 2px solid black;*/
+/*    border-collapse: collapse;*/
+/*}*/
+.row{
+    height: 2px;
+    width: 10px;
+}
+.super-class{
+    color: red;
+}
+
+
