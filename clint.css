@@ -1,0 +1,45 @@
+body {
+    background-color: antiquewhite;
+}
+
+.header {
+    color: blue;
+    text-align: center;
+}
+
+#form-id {
+    border: 5px solid blue;
+    margin: 2% 2% 2% 2%;
+    padding-left: 10%;
+}
+
+.label-col, .table-data, .row {
+    font-size: small;
+    /*border: 2px solid red;*/
+    /*border-collapse: collapse;*/
+
+
+}
+
+.table-col {
+    width: 30%;
+}
+
+.row {
+    height: 2px;
+    width: 10px;
+}
+
+.btn {
+    background-color: limeGreen;
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.btn:hover {
+    background-color: green;
+}
+
